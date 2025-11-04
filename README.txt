@@ -54,4 +54,3 @@ This repository is for **academic and portfolio demonstration** only.
 
 ## Links
 - 🌐 [Portfolio Page](https://henrywang.online) – Full project breakdown and gameplay demo video  
-- 🎮 [More ETC Projects](https://henrywang.online/projects)
