@@ -21,10 +21,10 @@ Each script is documented with comments describing its function and integration 
 
 ## System Architecture
 The system is organized into four core modules:
-- Networking/ – Handles login, room management, spawning, and player synchronization.  
-- Interaction/ – Manages grabbing, rotation, and object instantiation.  
-- PuzzleBlocks/ – Controls alignment, bonding, and physics-based connections.  
-- PuzzleStations/ – Defines functional puzzle stations such as splitters, dye zones, and barriers.
+- CodeSamples/Networking/ – Handles login, room management, spawning, and player synchronization.  
+- CodeSamples/Interaction/ – Manages grabbing, rotation, and object instantiation.  
+- CodeSamples/PuzzleBlocks/ – Controls alignment, bonding, and physics-based connections.  
+- CodeSamples/PuzzleStations/ – Defines functional puzzle stations such as splitters, dye zones, and barriers.
 These modules communicate through Photon RPC events and shared object ownership to maintain consistent world states across clients.
 
 
